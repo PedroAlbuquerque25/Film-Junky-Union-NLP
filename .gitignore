@@ -1,0 +1,5 @@
+echo "film_junky_env/" >> .gitignore
+echo "*.csv" >> .gitignore
+echo "*.tsv" >> .gitignore
+echo ".DS_Store" >> .gitignore
+echo "__pycache__/" >> .gitignore
