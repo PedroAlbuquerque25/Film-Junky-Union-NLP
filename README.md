@@ -43,7 +43,7 @@ O modelo final utilizando **LightGBM** treinado sobre representações TF-IDF pr
 
 ---
 
-**Desenvolvido por [Pedro Albuquerque]**
+**Desenvolvido por Pedro Albuquerque**
 
 ---
 
